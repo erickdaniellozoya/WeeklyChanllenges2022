@@ -10,6 +10,7 @@ namespace WeeklyChanllenges2022.Factories
             return challenge switch
             {
                 0 => new Challenge0(),
+                1 => new Challenge1(),
                 _ => null,
             };
         }
