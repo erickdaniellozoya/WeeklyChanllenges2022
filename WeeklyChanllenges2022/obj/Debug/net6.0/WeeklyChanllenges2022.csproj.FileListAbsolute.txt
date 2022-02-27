@@ -1,0 +1,15 @@
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\WeeklyChanllenges2022.exe
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\WeeklyChanllenges2022.deps.json
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\WeeklyChanllenges2022.runtimeconfig.json
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\WeeklyChanllenges2022.dll
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\ref\WeeklyChanllenges2022.dll
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\bin\Debug\net6.0\WeeklyChanllenges2022.pdb
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.csproj.AssemblyReference.cache
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.AssemblyInfoInputs.cache
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.AssemblyInfo.cs
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.csproj.CoreCompileInputs.cache
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.dll
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\ref\WeeklyChanllenges2022.dll
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.pdb
+C:\Users\ErickDaniel\source\repos\WeeklyChanllenges2022\WeeklyChanllenges2022\obj\Debug\net6.0\WeeklyChanllenges2022.genruntimeconfig.cache
