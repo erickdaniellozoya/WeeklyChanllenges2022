@@ -29,9 +29,6 @@ namespace WeeklyChanllenges2022.Challenges
             Console.WriteLine($"Is Anagram (night, thing): {IsAnagrama("night", "thing")}");
         }
 
-        private static bool IsAnagrama(string firstWord, string secondWord)
-        {
-            return firstWord != secondWord && firstWord.Length == secondWord.Length && firstWord.Where(l => secondWord.Contains(l)).ToList().Count == firstWord.Length && secondWord.Where(l => firstWord.Contains(l)).ToList().Count == secondWord.Length;
-        }
+        private static bool IsAnagrama(string firstWord, string secondWord) => firstWord != secondWord && firstWord.Length == secondWord.Length && firstWord.Where(l => secondWord.Contains(l)).ToList().Count == firstWord.Length && secondWord.Where(l => firstWord.Contains(l)).ToList().Count == secondWord.Length;
     }
 }
