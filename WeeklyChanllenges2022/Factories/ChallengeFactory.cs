@@ -16,6 +16,7 @@ namespace WeeklyChanllenges2022.Factories
                 4 => new Challenge4(),
                 6 => new Challenge6(),
                 7 => new Challenge7(),
+                8 => new Challenge8(),   
                 _ => new Challenge0(),
             };
         }
