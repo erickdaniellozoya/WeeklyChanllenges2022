@@ -1,3 +1,6 @@
-.vs/
-WeeklyChanllenges2022/bin/
-WeeklyChanllenges2022/obj/
+.vs/*
+.sonarqube/*
+.git/*
+WeeklyChanllenges2022/bin/*
+WeeklyChanllenges2022/obj/*
+*.txt
