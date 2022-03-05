@@ -15,6 +15,7 @@
  *
  */
 
+using System.Text;
 using WeeklyChanllenges2022.Interfaces;
 
 namespace WeeklyChanllenges2022.Challenges
@@ -33,7 +34,7 @@ namespace WeeklyChanllenges2022.Challenges
             string[] numberSplit = number.ToString().Split('.');
             int numberFormated = int.Parse(numberSplit[0]);
             decimal decimalFormated = decimal.Parse($"0.{numberSplit[1]}");
-            string result = "";
+            StringBuilder result = new();
 
             do
             {
@@ -50,17 +51,17 @@ namespace WeeklyChanllenges2022.Challenges
             
             foreach (var item in binaryStack)
             {
-                result += item;
+                result.Append(item);
             }
 
-            result += ".";
+            result.Append('.');
 
             foreach(var item in binaryList)
             {
-                result += item;
+                result.Append(item);
             }
 
-            return result;
+            return result.ToString();
         }
     }
 }
