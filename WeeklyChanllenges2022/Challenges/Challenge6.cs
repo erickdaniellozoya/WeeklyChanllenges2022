@@ -16,6 +16,7 @@
  *
  */
 
+using System.Text;
 using WeeklyChanllenges2022.Interfaces;
 
 namespace WeeklyChanllenges2022.Challenges
@@ -29,13 +30,13 @@ namespace WeeklyChanllenges2022.Challenges
 
         private static string ReverseString(string text)
         {
-            string reversedText = "";
+            StringBuilder reversedText = new();
             for (int i = text.Length - 1; i >= 0; i--)
             {
-                reversedText += text[i];
+                reversedText.Append(text[i]);
             }
 
-            return reversedText;
+            return reversedText.ToString();
         }
     }
 }
