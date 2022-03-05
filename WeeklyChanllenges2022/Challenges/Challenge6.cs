@@ -16,11 +16,6 @@
  *
  */
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using WeeklyChanllenges2022.Interfaces;
 
 namespace WeeklyChanllenges2022.Challenges
